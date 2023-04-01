@@ -6,3 +6,39 @@
 body {
   padding-top: 56px;
 }
+
+#testimonials {
+  color: white;
+}
+
+.card-title {
+  font-size: 1.25em;
+}
+
+.navbar {
+  background-color: #023047 !important;
+}
+
+#testimonials {
+  background-color: #023047 !important;
+}
+
+#testimonial-body {
+  color: white !important;
+}
+
+.btn {
+  background-color: #023e8a !important;
+}
+
+.btn:focus {
+  background-color: black !important;
+}
+
+.py-5 {
+  background-color: #023047 !important;
+}
+
+.skip {
+  color: #023047;
+}
